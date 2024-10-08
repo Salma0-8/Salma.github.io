@@ -59,7 +59,9 @@ Welcome to my online portfolio! I am a passionate data scientist with a love for
 
 
 ### 📈 Featured Projects
-- [Project 1: Customer Churn Prediction](link-to-your-project1): Analyzing customer behavior to predict churn and improve retention strategies.
-- [Project 2: E-Commerce Sales Forecasting](link-to-your-project2): Using time series analysis to forecast sales trends and optimize inventory.
+- [Project 1: EA Stocks Financial Analysis with Prophet and Plotly project](https://github.com/Salma0-8/EA-Stocks-Financial-Analysis-with-Prophet-Plotly):
+   I performed a time series analysis using Facebook Prophet to forecast EA stock trends. I integrated Python and Plotly for interactive financial visualizations, highlighting stock price movement and patterns. The project involved data preprocessing, trend analysis, and creating advanced visual representations to aid decision-making in financial markets.
+  
+- [Project 2: Sentiment Insights: Analyzing ChatGPT User Reviews project](https://github.com/Salma0-8/Sentiment-Insights-Analyzing-ChatGPT-User-Review):  I employed natural language processing (NLP) techniques to evaluate user feedback on ChatGPT. Utilizing Python libraries like VADER for sentiment analysis, I categorized reviews into positive, neutral, and negative sentiments. Data preprocessing techniques such as tokenization and stopword removal were implemented, and the results were visualized with Plotly. This project showcases my expertise in sentiment analysis and data visualization, yielding actionable insights based on user feedback trends.
 
 Feel free to explore my projects and learn more about my work!
