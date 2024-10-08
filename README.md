@@ -35,19 +35,19 @@ Welcome to my online portfolio! I am a passionate data scientist with a love for
 
 ### Financial & Business Analytics
 
-Financial Modeling & Analysis
-Time Series Analysis
-Risk Management Techniques
-Market Research & Consumer Behavior Analysis
-Predictive Analytics
+-Financial Modeling & Analysis 
+-Time Series Analysis
+-Risk Management Techniques
+-Market Research & Consumer Behavior Analysis 
+-Predictive Analytics
 
 ### Soft Skills
 
-Analytical Thinking
-Problem Solving
-Communication Skills
-Team Collaboration
-Project Management
+-Analytical Thinking
+-Problem Solving
+-Communication Skills
+-Team Collaboration
+-Project Management
 
 
 ### 📈 Featured Projects
