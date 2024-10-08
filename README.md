@@ -7,7 +7,7 @@ Welcome to My Portfolio
 
 Welcome to my online portfolio! I am a passionate data scientist with a love for transforming data into actionable insights. My journey in data science has equipped me with skills in statistical analysis, machine learning, deep learning, and data visualization. 
 
-## 🚀 What I DoSkills:
+## 🚀 What I Do:
 
 - Data Analysis and Interpretation: Expert in data cleaning, transformation, and exploratory data analysis (EDA) employing Python, Pandas, and SQL to derive actionable insights from complex datasets.
 
